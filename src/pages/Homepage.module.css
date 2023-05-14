@@ -1,0 +1,1199 @@
+.groupChild {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 97px;
+  height: 35px;
+}
+.donate {
+  position: absolute;
+  top: 4px;
+  left: 23px;
+  font-weight: 300;
+  display: inline-block;
+  width: 53.44px;
+  height: 16.5px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 1153px;
+  width: 95px;
+  height: 33px;
+}
+.ourServices {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 49.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 87px;
+  height: 18px;
+}
+.vectorIcon {
+  position: absolute;
+  top: calc(50% + 1px);
+  left: calc(50% + 41.5px);
+  width: 8px;
+  height: 5px;
+}
+.getInvolved,
+.ourServicesParent {
+  position: absolute;
+  top: calc(50% - 16.38px);
+  left: calc(50% + 11px);
+  width: 99px;
+  height: 18px;
+  cursor: pointer;
+}
+.getInvolved {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 49px);
+  font-weight: 300;
+  display: inline-block;
+  width: 90px;
+  height: 17px;
+}
+.vectorIcon1 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 41px);
+  width: 8px;
+  height: 5px;
+}
+.getInvolvedParent,
+.selfAssessment {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 436px);
+  width: 98px;
+  height: 17px;
+}
+.selfAssessment {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 74.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 149px;
+}
+.vectorIcon2 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 37.5px);
+  width: 8px;
+  height: 5px;
+}
+.aboutUs,
+.selfAssessmentParent {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 294px);
+  width: 149px;
+  height: 17px;
+  cursor: pointer;
+}
+.aboutUs {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 38px);
+  font-weight: 300;
+  display: inline-block;
+  width: 62px;
+}
+.vectorIcon3 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 30px);
+  width: 8px;
+  height: 5px;
+}
+.aboutUsParent,
+.homepage1 {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 109px);
+  width: 76px;
+  height: 17px;
+}
+.homepage1 {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 43px);
+  font-weight: 300;
+  display: inline-block;
+  width: 75px;
+}
+.homepageParent,
+.vectorIcon4 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 35px);
+  width: 8px;
+  height: 5px;
+}
+.homepageParent {
+  top: calc(50% - 15.38px);
+  left: calc(50% - 580px);
+  width: 86px;
+  height: 17px;
+}
+.groupItem {
+  position: absolute;
+  top: 42.51px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1290.5px;
+  height: 0.5px;
+}
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1290px;
+  height: 42.76px;
+}
+.image7Icon,
+.image7Wrapper {
+  position: absolute;
+  top: 0;
+  width: 759px;
+  height: 586px;
+}
+.image7Icon {
+  left: 0;
+  object-fit: cover;
+}
+.image7Wrapper {
+  left: 441px;
+}
+.takeControlOf {
+  margin: 0;
+}
+.takeControlOfContainer {
+  position: absolute;
+  top: calc(50% - 117px);
+  left: calc(50% - 185px);
+  display: inline-block;
+  width: 370px;
+}
+.empowerYourMind,
+.takeControlOfYourThoughtsWrapper {
+  position: absolute;
+  top: calc(50% - 44px);
+  left: calc(50% - 599px);
+  width: 370px;
+  height: 234px;
+}
+.empowerYourMind {
+  top: calc(50% - 96.5px);
+  left: calc(50% - 261.5px);
+  font-weight: 600;
+  display: inline-block;
+  width: 523px;
+  height: 193px;
+}
+.groupInner {
+  position: absolute;
+  top: 152.75px;
+  left: 127.72px;
+  border-top: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 154.55px;
+  height: 0.5px;
+}
+.empowerYourMindElevateYouParent {
+  position: absolute;
+  top: calc(50% - 249px);
+  left: calc(50% - 600px);
+  width: 523px;
+  height: 193px;
+  font-size: 48px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-midnightblue);
+  box-sizing: border-box;
+  width: 160px;
+  height: 38px;
+  cursor: pointer;
+}
+.learnMore {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 44px);
+  display: inline-block;
+  width: 87px;
+  height: 17px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 495px;
+  left: 0;
+  width: 160px;
+  height: 38px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.groupDiv {
+  position: absolute;
+  top: 62px;
+  left: 80px;
+  width: 1200px;
+  height: 586px;
+  font-size: var(--font-size-lg);
+}
+.groupParent {
+  position: absolute;
+  top: 38px;
+  left: 77px;
+  width: 1290px;
+  height: 648px;
+}
+.aboutUs1,
+.companyNameIs,
+.ourMissionIs {
+  position: absolute;
+  left: calc(50% - 310.5px);
+  display: inline-block;
+}
+.aboutUs1 {
+  top: calc(50% - 115.5px);
+  font-weight: 600;
+  width: 87px;
+  height: 17px;
+}
+.companyNameIs,
+.ourMissionIs {
+  top: calc(50% - 96px);
+  width: 621px;
+}
+.ourMissionIs {
+  top: calc(50% + 18px);
+  font-size: var(--font-size-lg);
+  width: 556px;
+}
+.companyNameIsAServiceComParent {
+  position: absolute;
+  top: calc(50% - 76.5px);
+  left: calc(50% - 310.5px);
+  width: 621px;
+  height: 192px;
+  font-size: var(--font-size-13xl);
+}
+.aboutUsGroup {
+  position: absolute;
+  top: calc(50% - 294.5px);
+  left: calc(50% - 616.5px);
+  width: 621px;
+  height: 231px;
+}
+.groupIcon {
+  position: absolute;
+  top: 0;
+  left: 101px;
+  width: 565px;
+  height: 528px;
+}
+.groupChild1,
+.vectorIcon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild1 {
+  border-radius: 14px;
+  background-color: var(--color-white);
+  box-shadow: 14px 14px 22px 3px rgba(0, 0, 0, 0.25);
+  width: 401px;
+  height: 242px;
+}
+.vectorIcon5 {
+  height: 24.19%;
+  width: 13.97%;
+  right: 86.03%;
+  bottom: 75.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.yourPresentCircumstancesContainer {
+  position: absolute;
+  top: 19px;
+  left: 73px;
+  display: inline-block;
+  width: 285px;
+  height: 167px;
+}
+.vectorParent {
+  position: absolute;
+  height: 76.86%;
+  width: 89.28%;
+  top: 4.96%;
+  right: 6.98%;
+  bottom: 18.18%;
+  left: 3.74%;
+}
+.groupFrame,
+.groupParent2,
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 401px;
+  height: 242px;
+}
+.groupFrame,
+.groupParent2 {
+  top: 349px;
+}
+.groupParent2 {
+  top: 0;
+  left: 567px;
+  width: 666px;
+  height: 591px;
+  font-size: var(--font-size-5xl);
+}
+.vectorIcon6 {
+  position: absolute;
+  height: 96.15%;
+  width: 9.8%;
+  top: 3.85%;
+  right: 90.2%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.depressionDetectionTest {
+  position: absolute;
+  top: 0;
+  left: 34px;
+}
+.vectorGroup,
+.vectorIcon7 {
+  position: absolute;
+  height: 11.3%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 88.7%;
+  left: 0;
+}
+.vectorIcon7 {
+  height: 96.15%;
+  width: 10.2%;
+  right: 89.8%;
+  bottom: 3.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorContainer,
+.vectorIcon8 {
+  position: absolute;
+  height: 11.3%;
+  width: 96.09%;
+  top: 22.61%;
+  right: 3.91%;
+  bottom: 66.09%;
+  left: 0;
+}
+.vectorIcon8 {
+  height: 92.59%;
+  width: 11.8%;
+  top: 7.41%;
+  right: 88.2%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon9,
+.vectorParent1 {
+  position: absolute;
+  height: 11.74%;
+  width: 83.04%;
+  top: 43.91%;
+  right: 16.96%;
+  bottom: 44.35%;
+  left: 0;
+}
+.vectorIcon9 {
+  height: 96.15%;
+  width: 12.12%;
+  top: 0;
+  right: 87.88%;
+  bottom: 3.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon10,
+.vectorParent2 {
+  position: absolute;
+  height: 11.3%;
+  width: 80.87%;
+  top: 66.96%;
+  right: 19.13%;
+  bottom: 21.74%;
+  left: 0;
+}
+.vectorIcon10 {
+  height: 92.59%;
+  width: 15.44%;
+  top: 7.41%;
+  right: 84.56%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent3,
+.vectorParent3 {
+  position: absolute;
+  height: 11.74%;
+  width: 63.48%;
+  top: 88.26%;
+  right: 36.52%;
+  bottom: 0;
+  left: 0;
+}
+.groupParent3 {
+  height: 35.55%;
+  width: 18.65%;
+  top: 53.94%;
+  right: 77.78%;
+  bottom: 10.51%;
+  left: 3.57%;
+  font-size: var(--font-size-lg);
+}
+.groupChild2,
+.rectangleParent1 {
+  position: absolute;
+  width: 160px;
+  height: 38px;
+}
+.groupChild2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-midnightblue);
+  box-sizing: border-box;
+}
+.rectangleParent1 {
+  top: 609px;
+  left: 44px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.groupParent1 {
+  position: absolute;
+  top: calc(50% - 886.5px);
+  left: calc(50% - 573px);
+  width: 1233px;
+  height: 647px;
+  font-size: var(--font-size-xl);
+}
+.vectorIcon11 {
+  position: absolute;
+  height: 96.15%;
+  width: 7.75%;
+  top: 3.85%;
+  right: 92.25%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon12,
+.vectorParent4 {
+  position: absolute;
+  height: 11.3%;
+  width: 69.12%;
+  top: 0;
+  right: 30.88%;
+  bottom: 88.7%;
+  left: 0;
+}
+.vectorIcon12 {
+  height: 96.15%;
+  width: 7.09%;
+  right: 92.91%;
+  bottom: 3.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon13,
+.vectorParent5 {
+  position: absolute;
+  height: 11.3%;
+  width: 75.53%;
+  top: 22.61%;
+  right: 24.47%;
+  bottom: 66.09%;
+  left: 0;
+}
+.vectorIcon13 {
+  height: 92.59%;
+  width: 5.35%;
+  top: 7.41%;
+  right: 94.65%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon14,
+.vectorParent6 {
+  position: absolute;
+  height: 11.74%;
+  width: 100%;
+  top: 43.91%;
+  right: 0;
+  bottom: 44.35%;
+  left: 0;
+}
+.vectorIcon14 {
+  height: 96.15%;
+  width: 6.4%;
+  top: 0;
+  right: 93.6%;
+  bottom: 3.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon15,
+.vectorParent7 {
+  position: absolute;
+  height: 11.3%;
+  width: 83.61%;
+  top: 66.96%;
+  right: 16.39%;
+  bottom: 21.74%;
+  left: 0;
+}
+.vectorIcon15 {
+  height: 92.59%;
+  width: 6.92%;
+  top: 7.41%;
+  right: 93.08%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent5,
+.vectorParent8 {
+  position: absolute;
+  height: 11.74%;
+  width: 77.43%;
+  top: 88.26%;
+  right: 22.57%;
+  bottom: 0;
+  left: 0;
+}
+.groupParent5 {
+  height: 36.22%;
+  width: 33.41%;
+  top: 54.02%;
+  right: 13.97%;
+  bottom: 9.76%;
+  left: 52.62%;
+}
+.image8Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 564px;
+  height: 597px;
+  object-fit: cover;
+}
+.aCollectionOf,
+.selfAssessment1,
+.thisTestCan {
+  position: absolute;
+  left: calc(50% - 337px);
+  display: inline-block;
+}
+.selfAssessment1 {
+  top: calc(50% - 140.5px);
+  font-weight: 600;
+  width: 151px;
+  height: 17px;
+}
+.aCollectionOf,
+.thisTestCan {
+  top: calc(50% - 118.5px);
+  width: 674px;
+  height: 126px;
+}
+.thisTestCan {
+  top: calc(50% - 3.5px);
+  font-size: var(--font-size-lg);
+  width: 587px;
+  height: 122px;
+}
+.aCollectionOfFreeOnlineTeParent,
+.selfAssessmentGroup {
+  position: absolute;
+  top: calc(50% - 96.5px);
+  left: calc(50% - 337px);
+  width: 674px;
+  height: 237px;
+  font-size: var(--font-size-13xl);
+}
+.selfAssessmentGroup {
+  top: calc(50% - 259.5px);
+  left: calc(50% - 44px);
+  height: 281px;
+  font-size: var(--font-size-xl);
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 597px;
+  left: 794px;
+  width: 160px;
+  height: 38px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.groupParent4 {
+  position: absolute;
+  height: 18.72%;
+  width: 87.5%;
+  top: 44.27%;
+  right: 7.08%;
+  bottom: 37.02%;
+  left: 5.42%;
+  font-size: var(--font-size-lg);
+}
+.image9Icon {
+  position: absolute;
+  top: 18px;
+  left: 144px;
+  width: 899px;
+  height: 553px;
+  object-fit: cover;
+}
+.groupChild4,
+.groupChild5,
+.groupChild6,
+.groupChild7 {
+  position: absolute;
+  top: 68.48px;
+  left: 223.39px;
+  background-color: var(--color-white);
+  width: 741.77px;
+  height: 70.16px;
+}
+.groupChild5,
+.groupChild6,
+.groupChild7 {
+  top: 131.01px;
+  left: 417.2px;
+  width: 374.39px;
+}
+.groupChild6,
+.groupChild7 {
+  top: 166.09px;
+  left: 477.91px;
+  width: 243.63px;
+}
+.groupChild7 {
+  top: 221px;
+}
+.groupChild8,
+.rectangleParent3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1101px;
+}
+.groupChild8 {
+  background-color: var(--color-white);
+  height: 201.49px;
+}
+.rectangleParent3 {
+  height: 291.17px;
+}
+.groupChild10,
+.groupChild11,
+.groupChild12,
+.groupChild9 {
+  position: absolute;
+  top: 204.35px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 127px;
+  height: 109.82px;
+}
+.groupChild10,
+.groupChild11,
+.groupChild12 {
+  top: 33.42px;
+  width: 89px;
+  height: 280.74px;
+}
+.groupChild11,
+.groupChild12 {
+  top: 0;
+  left: 730px;
+  width: 99px;
+  height: 324.67px;
+}
+.groupChild12 {
+  top: 274.06px;
+  left: 363px;
+  border-radius: var(--br-11xl);
+  height: 318.94px;
+}
+.image9Parent,
+.rectangleParent4 {
+  position: absolute;
+  top: 233px;
+  left: 195px;
+  width: 829px;
+  height: 593px;
+}
+.image9Parent {
+  top: 0;
+  left: 296px;
+  width: 1101px;
+  height: 826px;
+}
+.lifeIsFull,
+.notOnlyConsultation,
+.ourServices1 {
+  position: absolute;
+  left: calc(50% - 293.5px);
+  display: inline-block;
+}
+.ourServices1 {
+  top: calc(50% - 126.5px);
+  font-weight: 600;
+  width: 129px;
+  height: 17px;
+}
+.lifeIsFull,
+.notOnlyConsultation {
+  top: calc(50% - 105.5px);
+  width: 587px;
+  height: 122px;
+}
+.lifeIsFull {
+  top: calc(50% + 10.5px);
+  font-size: var(--font-size-lg);
+  width: 575px;
+  height: 95px;
+}
+.notOnlyConsultationSeeOurParent {
+  position: absolute;
+  top: calc(50% - 84.5px);
+  left: calc(50% - 293.5px);
+  width: 587px;
+  height: 211px;
+  font-size: var(--font-size-13xl);
+}
+.ourServicesGroup {
+  position: absolute;
+  top: calc(50% - 373px);
+  left: calc(50% - 698.5px);
+  width: 587px;
+  height: 253px;
+}
+.vectorIcon16 {
+  position: absolute;
+  height: 96.15%;
+  width: 19.95%;
+  top: 3.85%;
+  right: 80.05%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon17,
+.vectorParent9 {
+  position: absolute;
+  height: 14.44%;
+  width: 76.87%;
+  top: 0;
+  right: 23.13%;
+  bottom: 85.56%;
+  left: 0;
+}
+.vectorIcon17 {
+  height: 96.15%;
+  width: 18.04%;
+  right: 81.96%;
+  bottom: 3.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon18,
+.vectorParent10 {
+  position: absolute;
+  height: 14.44%;
+  width: 85.03%;
+  top: 28.89%;
+  right: 14.97%;
+  bottom: 56.67%;
+  left: 0;
+}
+.vectorIcon18 {
+  height: 92.59%;
+  width: 15.34%;
+  top: 7.41%;
+  right: 84.66%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon19,
+.vectorParent11 {
+  position: absolute;
+  height: 15%;
+  width: 100%;
+  top: 56.11%;
+  right: 0;
+  bottom: 28.89%;
+  left: 0;
+}
+.vectorIcon19 {
+  height: 96.15%;
+  width: 22.77%;
+  top: 0;
+  right: 77.23%;
+  bottom: 3.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent7,
+.vectorParent12 {
+  position: absolute;
+  height: 14.44%;
+  width: 67.35%;
+  top: 85.56%;
+  right: 32.65%;
+  bottom: 0;
+  left: 0;
+}
+.groupParent7 {
+  height: 21.79%;
+  width: 10.52%;
+  top: 38.62%;
+  right: 85.61%;
+  bottom: 39.59%;
+  left: 3.87%;
+  font-size: var(--font-size-lg);
+}
+.rectangleParent5 {
+  position: absolute;
+  top: 528px;
+  left: 57px;
+  width: 160px;
+  height: 38px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.groupParent6 {
+  position: absolute;
+  top: 2161px;
+  left: 146px;
+  width: 1397px;
+  height: 826px;
+  font-size: var(--font-size-xl);
+}
+.toBeHeard {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  display: inline-block;
+  width: 702px;
+}
+.vectorIcon20,
+.vectorIcon21 {
+  position: absolute;
+  height: 15.85%;
+  width: 3.23%;
+  top: 0;
+  right: 96.77%;
+  bottom: 84.15%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon21 {
+  right: 0;
+  left: 96.77%;
+}
+.toBeHeardIsToBeValidatedParent {
+  position: absolute;
+  top: 2849px;
+  left: 320px;
+  width: 775px;
+  height: 138px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+}
+.groupChild14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-teal-100);
+  width: 1440px;
+  height: 305px;
+}
+.counselling1,
+.mentoring1,
+.onlineClasses1,
+.phycologicalTests,
+.services,
+.webinar1 {
+  position: absolute;
+  left: calc(50% - 61px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.services {
+  top: calc(50% - 109px);
+  font-weight: 500;
+}
+.counselling1,
+.mentoring1,
+.onlineClasses1,
+.phycologicalTests,
+.webinar1 {
+  top: calc(50% - 76.5px);
+}
+.counselling1,
+.onlineClasses1,
+.phycologicalTests,
+.webinar1 {
+  top: calc(50% - 42.5px);
+  width: 95px;
+}
+.onlineClasses1,
+.phycologicalTests,
+.webinar1 {
+  top: calc(50% - 8.5px);
+  width: 104px;
+}
+.phycologicalTests,
+.webinar1 {
+  top: calc(50% + 25.5px);
+}
+.phycologicalTests {
+  top: calc(50% + 59.5px);
+  width: 122px;
+}
+.mentoringParent,
+.servicesParent {
+  position: absolute;
+  top: calc(50% - 44px);
+  left: calc(50% - 61px);
+  width: 122px;
+  height: 153px;
+  font-size: var(--font-size-base);
+}
+.servicesParent {
+  top: calc(50% - 116.5px);
+  left: calc(50% - 292px);
+  height: 218px;
+  font-size: var(--font-size-xl);
+}
+.companyTaglineWith {
+  position: absolute;
+  top: calc(50% - 32.5px);
+  left: calc(50% - 144.5px);
+  display: inline-block;
+  width: 289px;
+  height: 65px;
+}
+.companyTaglineWithLogoAndWrapper {
+  position: absolute;
+  top: calc(50% + 2.5px);
+  left: calc(50% - 638px);
+  width: 289px;
+  height: 65px;
+}
+.mentorPartners,
+.ourStory,
+.psychologistPartners {
+  position: absolute;
+  top: calc(50% - 76.5px);
+  left: calc(50% - 78.5px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.mentorPartners,
+.psychologistPartners {
+  top: calc(50% - 42.5px);
+  width: 121px;
+}
+.psychologistPartners {
+  top: calc(50% - 8.5px);
+  width: 157px;
+}
+.advisorPartners {
+  top: calc(50% + 25.5px);
+  display: inline-block;
+  width: 112px;
+  height: 17px;
+}
+.advisorPartners,
+.company,
+.help,
+.ourStoryParent {
+  position: absolute;
+  left: calc(50% - 78.5px);
+}
+.help {
+  top: calc(50% + 59.5px);
+  display: inline-block;
+  width: 104px;
+  height: 17px;
+}
+.company,
+.ourStoryParent {
+  top: calc(50% - 44px);
+  width: 157px;
+  height: 153px;
+}
+.company {
+  top: calc(50% - 109px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 99px;
+  height: 17px;
+}
+.advisor,
+.groupParent8,
+.mentor {
+  position: absolute;
+  top: calc(50% - 116.5px);
+  left: calc(50% - 93px);
+  width: 157px;
+  height: 218px;
+}
+.advisor,
+.mentor {
+  top: calc(50% - 42.5px);
+  left: calc(50% - 78.5px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.advisor {
+  top: calc(50% - 8.5px);
+  width: 121px;
+}
+.joinUsAs,
+.mentorParent,
+.psychologist {
+  position: absolute;
+  left: calc(50% - 78.5px);
+  width: 157px;
+}
+.psychologist {
+  top: calc(50% + 25.5px);
+  display: inline-block;
+  height: 17px;
+}
+.joinUsAs,
+.mentorParent {
+  top: calc(50% - 10px);
+  height: 85px;
+}
+.joinUsAs {
+  top: calc(50% - 75px);
+  left: calc(50% - 75.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 105px;
+  height: 17px;
+}
+.groupParent9 {
+  position: absolute;
+  top: calc(50% - 116.5px);
+  left: calc(50% + 123px);
+  width: 157px;
+  height: 150px;
+}
+.aboutOurMission,
+.ourWholeTeamIsDedicatedToWrapper {
+  position: absolute;
+  top: calc(50% - 0px);
+  left: calc(50% - 144.5px);
+  width: 289px;
+  height: 65px;
+}
+.aboutOurMission {
+  top: calc(50% - 65px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 182px;
+  height: 17px;
+}
+.groupParent10 {
+  position: absolute;
+  top: calc(50% - 116.5px);
+  left: calc(50% + 330px);
+  width: 289px;
+  height: 130px;
+}
+.groupChild15 {
+  position: absolute;
+  height: 4.92%;
+  width: 10.14%;
+  top: 70.16%;
+  right: 14.65%;
+  bottom: 24.92%;
+  left: 75.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent6 {
+  position: absolute;
+  top: 3088px;
+  left: 0;
+  width: 1440px;
+  height: 305px;
+  color: var(--color-white);
+}
+.homepage {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3393px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
