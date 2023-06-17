@@ -1,0 +1,928 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-teal-100);
+  width: 1440px;
+  height: 305px;
+}
+.counselling,
+.mentoring,
+.onlineClasses,
+.phycologicalTests,
+.services,
+.webinar {
+  position: absolute;
+  left: calc(50% - 61px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.services {
+  top: calc(50% - 109px);
+  font-weight: 500;
+}
+.counselling,
+.mentoring,
+.onlineClasses,
+.phycologicalTests,
+.webinar {
+  top: calc(50% - 76.5px);
+}
+.counselling,
+.onlineClasses,
+.phycologicalTests,
+.webinar {
+  top: calc(50% - 42.5px);
+  width: 95px;
+}
+.onlineClasses,
+.phycologicalTests,
+.webinar {
+  top: calc(50% - 8.5px);
+  width: 104px;
+}
+.phycologicalTests,
+.webinar {
+  top: calc(50% + 25.5px);
+}
+.phycologicalTests {
+  top: calc(50% + 59.5px);
+  width: 122px;
+}
+.mentoringParent,
+.servicesParent {
+  position: absolute;
+  top: calc(50% - 44px);
+  left: calc(50% - 61px);
+  width: 122px;
+  height: 153px;
+  font-size: var(--font-size-base);
+}
+.servicesParent {
+  top: calc(50% - 128.5px);
+  left: calc(50% - 292px);
+  height: 218px;
+  font-size: var(--font-size-xl);
+}
+.companyTaglineWith {
+  position: absolute;
+  top: calc(50% - 32.5px);
+  left: calc(50% - 144.5px);
+  display: inline-block;
+  width: 289px;
+  height: 65px;
+}
+.companyTaglineWithLogoAndWrapper {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: calc(50% - 638px);
+  width: 289px;
+  height: 65px;
+}
+.mentorPartners,
+.ourStory,
+.psychologistPartners {
+  position: absolute;
+  top: calc(50% - 76.5px);
+  left: calc(50% - 78.5px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.mentorPartners,
+.psychologistPartners {
+  top: calc(50% - 42.5px);
+  width: 121px;
+}
+.psychologistPartners {
+  top: calc(50% - 8.5px);
+  width: 157px;
+}
+.advisorPartners {
+  top: calc(50% + 25.5px);
+  display: inline-block;
+  width: 112px;
+  height: 17px;
+}
+.advisorPartners,
+.company,
+.help,
+.ourStoryParent {
+  position: absolute;
+  left: calc(50% - 78.5px);
+}
+.help {
+  top: calc(50% + 59.5px);
+  display: inline-block;
+  width: 104px;
+  height: 17px;
+}
+.company,
+.ourStoryParent {
+  top: calc(50% - 44px);
+  width: 157px;
+  height: 153px;
+}
+.company {
+  top: calc(50% - 109px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 99px;
+  height: 17px;
+}
+.advisor,
+.groupParent,
+.mentor {
+  position: absolute;
+  top: calc(50% - 128.5px);
+  left: calc(50% - 93px);
+  width: 157px;
+  height: 218px;
+}
+.advisor,
+.mentor {
+  top: calc(50% - 42.5px);
+  left: calc(50% - 78.5px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.advisor {
+  top: calc(50% - 8.5px);
+  width: 121px;
+}
+.joinUsAs,
+.mentorParent,
+.psychologist {
+  position: absolute;
+  left: calc(50% - 78.5px);
+  width: 157px;
+}
+.psychologist {
+  top: calc(50% + 25.5px);
+  display: inline-block;
+  height: 17px;
+}
+.joinUsAs,
+.mentorParent {
+  top: calc(50% - 10px);
+  height: 85px;
+}
+.joinUsAs {
+  top: calc(50% - 75px);
+  left: calc(50% - 75.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 105px;
+  height: 17px;
+}
+.groupContainer {
+  position: absolute;
+  top: calc(50% - 128.5px);
+  left: calc(50% + 123px);
+  width: 157px;
+  height: 150px;
+}
+.aboutOurMission,
+.ourWholeTeamIsDedicatedToWrapper {
+  position: absolute;
+  top: calc(50% - 0px);
+  left: calc(50% - 144.5px);
+  width: 289px;
+  height: 65px;
+}
+.aboutOurMission {
+  top: calc(50% - 65px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 182px;
+  height: 17px;
+}
+.groupDiv {
+  position: absolute;
+  top: calc(50% - 128.5px);
+  left: calc(50% + 330px);
+  width: 289px;
+  height: 130px;
+}
+.groupItem {
+  position: absolute;
+  height: 5.28%;
+  width: 10.14%;
+  top: 65.57%;
+  right: 16.94%;
+  bottom: 29.15%;
+  left: 72.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent {
+  position: absolute;
+  top: 2518px;
+  left: 0;
+  width: 1440px;
+  height: 305px;
+}
+.groupInner,
+.image7Icon,
+.image7Wrapper {
+  position: absolute;
+  width: 759px;
+  height: 586px;
+}
+.image7Icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.groupInner,
+.image7Wrapper {
+  top: 222px;
+  left: 286px;
+}
+.groupInner {
+  top: -1px;
+  left: -1px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 97px;
+  height: 35px;
+}
+.donate {
+  position: absolute;
+  top: 4px;
+  left: 23px;
+  font-weight: 300;
+  display: inline-block;
+  width: 53.44px;
+  height: 16.5px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 1153px;
+  width: 95px;
+  height: 33px;
+}
+.ourServices {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 49.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 87px;
+  height: 18px;
+}
+.vectorIcon {
+  position: absolute;
+  top: calc(50% + 1px);
+  left: calc(50% + 41.5px);
+  width: 8px;
+  height: 5px;
+}
+.getInvolved,
+.ourServicesParent {
+  position: absolute;
+  top: calc(50% - 16.38px);
+  left: calc(50% + 11px);
+  width: 99px;
+  height: 18px;
+  cursor: pointer;
+}
+.getInvolved {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 49px);
+  font-weight: 300;
+  display: inline-block;
+  width: 90px;
+  height: 17px;
+}
+.vectorIcon1 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 41px);
+  width: 8px;
+  height: 5px;
+}
+.getInvolvedParent,
+.selfAssessment {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 436px);
+  width: 98px;
+  height: 17px;
+}
+.selfAssessment {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 74.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 149px;
+}
+.vectorIcon2 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 37.5px);
+  width: 8px;
+  height: 5px;
+}
+.aboutUs,
+.selfAssessmentParent {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 294px);
+  width: 149px;
+  height: 17px;
+  cursor: pointer;
+}
+.aboutUs {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 38px);
+  font-weight: 300;
+  display: inline-block;
+  width: 62px;
+}
+.vectorIcon3 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 30px);
+  width: 8px;
+  height: 5px;
+}
+.aboutUsParent,
+.homepage {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 109px);
+  width: 76px;
+  height: 17px;
+}
+.homepage {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 43px);
+  font-weight: 300;
+  display: inline-block;
+  width: 75px;
+  cursor: pointer;
+}
+.homepageParent,
+.vectorIcon4 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 35px);
+  width: 8px;
+  height: 5px;
+}
+.homepageParent {
+  top: calc(50% - 15.38px);
+  left: calc(50% - 580px);
+  width: 86px;
+  height: 17px;
+}
+.lineDiv {
+  position: absolute;
+  top: 42.51px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1290.5px;
+  height: 0.5px;
+}
+.groupFrame,
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1290px;
+  height: 42.76px;
+}
+.groupWrapper {
+  font-size: var(--font-size-base);
+}
+.mentalHealth,
+.mentalHealthRefers {
+  position: absolute;
+  display: inline-block;
+}
+.mentalHealth {
+  top: 0;
+  left: 0;
+  width: 422px;
+  height: 42px;
+}
+.mentalHealthRefers {
+  top: calc(50% - 56.5px);
+  left: calc(50% - 578px);
+  font-size: var(--font-size-xl);
+  width: 1189px;
+  height: 180px;
+}
+.depression,
+.mentalHealthParent {
+  position: absolute;
+  top: 84px;
+  left: 1px;
+  width: 1222px;
+  height: 247px;
+  font-size: var(--font-size-13xl);
+}
+.depression {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 422px;
+  height: 42px;
+}
+.depressionCanBe,
+.depressionIsA {
+  position: absolute;
+  top: calc(50% - 178.5px);
+  left: calc(50% - 582px);
+  display: inline-block;
+  width: 1196px;
+  height: 59px;
+}
+.depressionCanBe {
+  top: calc(50% + 156.5px);
+  left: calc(50% - 581px);
+  height: 89px;
+}
+.depressionParent,
+.vectorIcon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1230px;
+  height: 491px;
+}
+.vectorIcon5 {
+  height: 86.21%;
+  width: 4.81%;
+  top: 3.45%;
+  right: 95.19%;
+  bottom: 10.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.persistentFeelingsOf {
+  position: absolute;
+  top: 0;
+  left: 34px;
+}
+.vectorIcon6,
+.vectorParent {
+  position: absolute;
+  height: 12.5%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 87.5%;
+  left: 0;
+}
+.vectorIcon6 {
+  height: 86.21%;
+  width: 6.09%;
+  top: 6.9%;
+  right: 93.91%;
+  bottom: 6.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorGroup,
+.vectorIcon7 {
+  position: absolute;
+  height: 12.5%;
+  width: 78.89%;
+  top: 21.55%;
+  right: 21.11%;
+  bottom: 65.95%;
+  left: 0;
+}
+.vectorIcon7 {
+  height: 86.21%;
+  width: 5.69%;
+  top: 6.9%;
+  right: 94.31%;
+  bottom: 6.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorContainer,
+.vectorIcon8 {
+  position: absolute;
+  height: 12.5%;
+  width: 84.43%;
+  top: 43.53%;
+  right: 15.57%;
+  bottom: 43.97%;
+  left: 0;
+}
+.vectorIcon8 {
+  height: 86.21%;
+  width: 5.29%;
+  top: 0;
+  right: 94.71%;
+  bottom: 13.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon9,
+.vectorParent1 {
+  position: absolute;
+  height: 12.5%;
+  width: 90.83%;
+  top: 66.38%;
+  right: 9.17%;
+  bottom: 21.12%;
+  left: 0;
+}
+.vectorIcon9 {
+  height: 86.21%;
+  width: 7.8%;
+  top: 6.9%;
+  right: 92.2%;
+  bottom: 6.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent4,
+.vectorParent2 {
+  position: absolute;
+  height: 12.5%;
+  width: 61.62%;
+  top: 87.5%;
+  right: 38.38%;
+  bottom: 0;
+  left: 0;
+}
+.groupParent4 {
+  height: 47.25%;
+  width: 38.13%;
+  top: 29.12%;
+  right: 59.11%;
+  bottom: 23.63%;
+  left: 2.76%;
+}
+.groupParent3 {
+  position: absolute;
+  top: 373px;
+  left: 0;
+  width: 1230px;
+  height: 491px;
+}
+.goodThinkingSupports {
+  position: absolute;
+  top: calc(50% + 3.5px);
+  left: calc(50% - 605.5px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 1244px;
+  height: 60px;
+}
+.iAmLookingForSupportForParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1277px;
+  height: 127px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 960px;
+  height: 240px;
+  object-fit: cover;
+}
+.depressionIsOne {
+  position: absolute;
+  top: calc(50% - 50px);
+  left: calc(50% - 407px);
+  font-weight: 300;
+  display: inline-block;
+  width: 824px;
+  height: 126px;
+}
+.continueReading,
+.youngPeople {
+  position: absolute;
+  top: calc(50% + 84px);
+  left: calc(50% + 324px);
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 108px;
+  height: 29px;
+}
+.youngPeople {
+  top: calc(50% - 101px);
+  left: calc(50% - 99px);
+  font-size: var(--font-size-13xl);
+  text-align: left;
+  width: 197px;
+  height: 54px;
+}
+.groupChild1,
+.rectangleContainer {
+  position: absolute;
+  top: 176px;
+  left: 157px;
+  width: 960px;
+  height: 240px;
+}
+.groupChild1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 285px;
+  object-fit: cover;
+}
+.someFaithsView {
+  top: calc(50% - 50px);
+  left: calc(50% - 128.5px);
+  font-weight: 300;
+  width: 253px;
+  height: 126px;
+}
+.continueReading1,
+.faithsBeliefs,
+.someFaithsView {
+  position: absolute;
+  display: inline-block;
+}
+.faithsBeliefs {
+  top: calc(50% - 95px);
+  left: calc(50% - 104.5px);
+  font-size: var(--font-size-13xl);
+  text-align: left;
+  width: 210px;
+  height: 54px;
+}
+.continueReading1 {
+  top: calc(50% + 91px);
+  left: calc(50% + 25.5px);
+  font-size: var(--font-size-sm);
+  width: 108px;
+  height: 29px;
+}
+.groupChild2,
+.rectangleParent1 {
+  position: absolute;
+  top: 446px;
+  left: 157px;
+  width: 285px;
+  height: 240px;
+}
+.groupChild2 {
+  top: 0;
+  left: 2px;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+}
+.employeesWhoAre {
+  position: absolute;
+  top: calc(50% - 58px);
+  left: calc(50% - 143.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 285px;
+  height: 126px;
+}
+.continueReading2,
+.workPlace {
+  position: absolute;
+  top: calc(50% + 91px);
+  left: calc(50% + 26.5px);
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 108px;
+  height: 29px;
+}
+.workPlace {
+  top: calc(50% - 98px);
+  left: calc(50% - 75.5px);
+  font-size: var(--font-size-13xl);
+  text-align: left;
+  width: 171px;
+  height: 36px;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 446px;
+  left: 830px;
+  width: 287px;
+  height: 240px;
+}
+.parentingCanBe,
+.parentsCarers {
+  position: absolute;
+  display: inline-block;
+}
+.parentingCanBe {
+  top: calc(50% - 50px);
+  left: calc(50% - 128.5px);
+  font-weight: 300;
+  width: 262px;
+  height: 126px;
+}
+.parentsCarers {
+  top: calc(50% - 98px);
+  left: calc(50% - 114.5px);
+  font-size: var(--font-size-13xl);
+  text-align: left;
+  width: 229px;
+  height: 54px;
+}
+.rectangleDiv,
+.rectangleParent3 {
+  position: absolute;
+  top: 446px;
+  left: 494px;
+  width: 285px;
+  height: 240px;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-midnightblue);
+  box-sizing: border-box;
+  width: 160px;
+  height: 38px;
+}
+.readAll {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 27px);
+  display: inline-block;
+  width: 87px;
+  height: 17px;
+}
+.rectangleParent4 {
+  position: absolute;
+  top: 706px;
+  left: 955px;
+  width: 160px;
+  height: 38px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.groupParent5 {
+  position: absolute;
+  top: 935px;
+  left: 1px;
+  width: 1277px;
+  height: 744px;
+  text-align: center;
+  color: var(--color-white);
+}
+.anxiety {
+  position: absolute;
+  top: calc(50% - 101px);
+  left: calc(50% - 99px);
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 197px;
+  height: 54px;
+}
+.rectangleParent5 {
+  position: absolute;
+  top: 127px;
+  left: 154px;
+  width: 960px;
+  height: 240px;
+}
+.breakdown,
+.itIsA {
+  position: absolute;
+  display: inline-block;
+}
+.itIsA {
+  top: calc(50% - 55px);
+  left: calc(50% - 125.5px);
+  font-weight: 300;
+  width: 253px;
+  height: 126px;
+}
+.breakdown {
+  top: calc(50% - 109px);
+  left: calc(50% - 104.5px);
+  font-size: var(--font-size-13xl);
+  width: 210px;
+  height: 54px;
+}
+.rectangleParent6 {
+  position: absolute;
+  top: 397px;
+  left: 154px;
+  width: 285px;
+  height: 240px;
+}
+.anger,
+.angerIsA {
+  position: absolute;
+  display: inline-block;
+}
+.angerIsA {
+  top: calc(50% - 55px);
+  left: calc(50% - 128.5px);
+  font-weight: 300;
+  width: 257px;
+  height: 126px;
+}
+.anger {
+  top: calc(50% - 102px);
+  left: calc(50% - 77.5px);
+  font-size: var(--font-size-13xl);
+  width: 171px;
+  height: 54px;
+}
+.rectangleParent7 {
+  position: absolute;
+  top: 397px;
+  left: 829px;
+  width: 285px;
+  height: 240px;
+}
+.stress,
+.stressIsA {
+  position: absolute;
+  display: inline-block;
+}
+.stressIsA {
+  top: calc(50% - 63px);
+  left: calc(50% - 132.5px);
+  font-weight: 300;
+  width: 262px;
+  height: 126px;
+}
+.stress {
+  top: calc(50% - 109px);
+  left: calc(50% - 109.5px);
+  font-size: var(--font-size-13xl);
+  width: 229px;
+  height: 54px;
+}
+.rectangleParent8 {
+  position: absolute;
+  top: 397px;
+  left: 491px;
+  width: 285px;
+  height: 240px;
+}
+.rectangleParent9 {
+  position: absolute;
+  top: 656px;
+  left: 952px;
+  width: 160px;
+  height: 38px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.groupParent6 {
+  position: absolute;
+  top: 1724px;
+  left: 4px;
+  width: 1277px;
+  height: 694px;
+  text-align: center;
+  color: var(--color-white);
+}
+.groupParent1 {
+  position: absolute;
+  top: 36px;
+  left: 83px;
+  width: 1290px;
+  height: 2418px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.explore {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2823px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
