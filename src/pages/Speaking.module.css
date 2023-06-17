@@ -847,16 +847,16 @@
 .groupParent6,
 .rectangleParent11 {
   position: absolute;
-  top: 170px;
+  top: 30px;
   left: 182px;
   width: 1019px;
-  height: 702px;
+  height: 600px;
 }
 .groupParent6 {
-  top: 57px;
+  top: 17px;
   left: 62px;
-  width: 1201px;
-  height: 872px;
+  width: 1101px;
+  height: 172px;
 }
 .rectangleParent10 {
   font-size: var(--font-size-13xl);
